@@ -6,6 +6,10 @@
 
 ## Kubernetes
 
+---
+
+* [1. K8S 删除Namespace提示 Terminating](1.-k8s-shan-chu-namespace-ti-shi-terminating.md)
+
 ## Istio
 
 ## go
