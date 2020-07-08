@@ -23,3 +23,14 @@
 
 * [1.1 在线扩容及遇到的问题](linux/1.1-zai-xian-kuo-rong-ji-yu-dao-de-wen-ti.md)
 
+## LUA
+
+* [1. 简单学习Lua：基本类型](lua/1.-jian-dan-xue-xi-lua-ji-ben-lei-xing/README.md)
+  * [1.1 nil](lua/1.-jian-dan-xue-xi-lua-ji-ben-lei-xing/1.1-nil.md)
+  * [1.2 number](lua/1.-jian-dan-xue-xi-lua-ji-ben-lei-xing/1.2-number.md)
+  * [1.3 string](lua/1.-jian-dan-xue-xi-lua-ji-ben-lei-xing/1.3-string.md)
+
+---
+
+* [2. 变量](2.-bian-liang.md)
+
