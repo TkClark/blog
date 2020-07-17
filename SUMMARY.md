@@ -17,6 +17,11 @@
 
 ## go
 
+---
+
+* [1. 简单学习和注意的点](1.-jian-dan-xue-xi-he-zhu-yi-de-dian.md)
+* [2. 函数](2.-han-shu.md)
+
 ## jfrog
 
 * [1.1 How to using jfrog client?](jfrog/1.1-how-to-using-jfrog-client.md)
