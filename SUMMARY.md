@@ -10,6 +10,8 @@
 
 * [1. K8S 删除Namespace提示 Terminating](1.-k8s-shan-chu-namespace-ti-shi-terminating.md)
 * [2. RBAC的使用](2.-rbac-de-shi-yong.md)
+* [问题](wen-ti/README.md)
+  * [Helm 发布提示: resource name may not be empty](wen-ti/helm-fa-bu-ti-shi-resource-name-may-not-be-empty.md)
 
 ## Istio
 
