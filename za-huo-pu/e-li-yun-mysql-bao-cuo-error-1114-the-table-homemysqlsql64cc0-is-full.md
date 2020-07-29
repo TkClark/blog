@@ -74,12 +74,12 @@ tmp_table_size = 67108864
 
 修改这2个参数不需要重启。
 
-
-
 > 参考
 
 1. [RDS MySQL出现“the table '/home/mysql/xxxx/xxxx/\#tab\_name' is full”报错的解决方法](https://help.aliyun.com/knowledge_detail/41746.html)
 2. [参数调优建议](https://help.aliyun.com/document_detail/63255.html)
 
+> 思考
 
+因为业务需要，导致实例中有9000+的库，因此缩短库名或者SQL调优都用一定的效果。
 
