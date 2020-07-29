@@ -42,3 +42,7 @@
 * [2. 变量](2.-bian-liang.md)
 * [3. 循环](3.-xun-huan.md)
 
+## 杂货铺
+
+* [阿里云Mysql报错: ERROR 1114 The table '/home/mysql/\*\#sql\_64cc\_0' is full](za-huo-pu/e-li-yun-mysql-bao-cuo-error-1114-the-table-homemysqlsql64cc0-is-full.md)
+
