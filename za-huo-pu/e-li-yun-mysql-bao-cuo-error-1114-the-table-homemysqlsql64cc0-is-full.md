@@ -57,6 +57,16 @@ MySQL 首先在内存中创建 `Memory` 引擎临时表，当临时表的尺寸�
 
 修改 `loose_rds_max_tmp_disk_space` 和 `tmp_table_size` 的大小咯，单位是`Byte` 。
 
+{% hint style="info" %}
+`loose_rds_max_tmp_disk_space:` Used to limit the max space can be occupied by tmp dir.
+
+用于限制tmp目录所能占用的最大空间。
+
+tmp\_table\_size: The maximum size of internal in-memory temporary tables.
+
+内存中内部临时表的最大大小。
+{% endhint %}
+
 ```text
 loose_rds_max_tmp_disk_space = 53687091200
 tmp_table_size = 67108864

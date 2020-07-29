@@ -21,6 +21,7 @@
 
 * [1. 简单学习和注意的点](1.-jian-dan-xue-xi-he-zhu-yi-de-dian.md)
 * [2. 函数](2.-han-shu.md)
+* [3. 异常处理](3.-yi-chang-chu-li.md)
 
 ## jfrog
 
